@@ -1,0 +1,61 @@
+html{
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    height: 100%;
+    background: lavenderblush;
+}
+header{
+    height: 74px;
+    padding: 0 4%;
+    background: #fff;
+    border-bottom: 1px solid #deeaee;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 10;
+    color: gray;
+    font-size: 25px;
+}
+a {
+    margin: 2px;
+    display: block;
+    flex: 0 180px;
+    position: relative;
+}
+figure{
+    position: relative;
+}
+figcaption {
+    background: rgba(0,0,0,0.5);
+    display: block;
+    position: absolute;
+    bottom: 0 px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 4px;
+    box-sizing: border-box;
+}
+#careerselect {
+    margin-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: white;
+    height: 74px;
+    background: black;
+    text-align: center;
+}
