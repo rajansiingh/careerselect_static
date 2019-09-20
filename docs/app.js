@@ -650,7 +650,7 @@
         html += `
   <a href='https://www.youtube.com/watch?v=${snippet.resourceId.videoId}'>
   <figure>
-    <img src="${snippet.thumbnails.medium.url}" alt="${snippet.title}"/>
+    <img class="video_thumb" src="${snippet.thumbnails.medium.url}" alt="${snippet.title}"/>
     <figcaption>${snippet.title}</figcaption>
   </figure></a>`;
 
