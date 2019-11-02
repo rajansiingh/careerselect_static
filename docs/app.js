@@ -5,6 +5,9 @@
 
 (function () {
     const json = [{
+        "videoId": "gttS8nitpJY",
+        "title": "Career in Yoga (Eligibility/Salary/Growth/Life) | Career Select",
+    },{
         "videoId": "9YDmerRVYTA",
         "title": "Job Satisfaction | Private vs Government vs Business | Career Select",
     },{
