@@ -5,6 +5,9 @@
 
 (function () {
     const json = [{
+        "videoId": "xmSoVwTFDW8",
+        "title": "Company Secretary (CS) | (Eligibility/ Salary/ Growth/ Life ) | Career Select",
+    },{
         "videoId": "gttS8nitpJY",
         "title": "Career in Yoga (Eligibility/Salary/Growth/Life) | Career Select",
     },{
